@@ -1,4 +1,6 @@
-os: 18.04
+os:
+  - linux
+  - osx
 language: java
 jdk:
   - openjdk8
