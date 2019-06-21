@@ -7,3 +7,4 @@ script:
   - mvn clean install
   - mvn package
   - mvn test
+  
